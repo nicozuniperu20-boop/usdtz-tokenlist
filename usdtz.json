@@ -1,11 +1,11 @@
 {
-  "name": "Tether",
+  "name": "USDTZ Token List",
   "logoURI": "https://nicozuniperu20-boop.github.io/usdtz-tokenlist/usdtz.png",
-  "keywords": ["usdtz", "stablecoin", "tether"],
+  "keywords": ["usdtz", "bep20", "bnb smart chain"],
   "timestamp": "2026-04-26T13:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 56,
       "address": "0x2D7191fEea2b34197C047aa061c9b937A7575520",
       "name": "Tether",
       "symbol": "USDT.Z",
